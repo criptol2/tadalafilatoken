@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tadalafila Token</title>
+    <style>
+        body {
+            background-color: #000;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .highlight {
+            color: #79a9b7;
+        }
+        .gold {
+            color: #ffeb88;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        .button {
+            background-color: #ffeb88;
+            color: black;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .social-links a {
+            color: #79a9b7;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 1.2rem;
+        }
+        .social-links a:hover {
+            color: #ffeb88;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+            .button {
+                width: 100%;
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="highlight">🔥 Tadalafila Token – O Azulzinho da Blockchain! 🔥</h1>
+        <p>O token que vai revolucionar o humor e a valorização! 🚀</p>
+        
+        <h2 class="gold">🚀 Roadmap</h2>
+        <p><strong>Fase 1 – Lançamento Explosivo 💥</strong><br>
+        ✅ Criação do contrato auditado 🔍<br>
+        ✅ Liquidez bloqueada 🚫💰<br>
+        ✅ Influencer secreto 🕵️‍♂️🌍<br>
+        ✅ Redes sociais 📢</p>
+
+        <p><strong>Fase 2 – Adoção em Massa 🔥</strong><br>
+        ✅ Campanha viral 🎥😈<br>
+        ✅ Staking 📈💎<br>
+        ✅ Doações para cinquentões 🧓❤️</p>
+
+        <h2 class="gold">💊 Pegou, Vendeu, Ganhou!</h2>
+        <p>Compre o NFT e ganhe $TADALAFILA automaticamente! Quanto mais compra, mais tokens ganha! 💰🔥</p>
+        
+        <a href="#" class="button">COMPRE SEU NFT AGORA</a>
+
+        <h2 class="gold">🔗 Conecte-se</h2>
+        <div class="social-links">
+            <a href="https://x.com/tadalafilatoken?s=21" class="highligh
